@@ -1,10 +1,10 @@
 # College Website 🎓
 
 <p align="center">
-  <a href="https://github.com/Nischal-Acharya/Full-School-Website/graphs/contributors"><img src="https://img.shields.io/github/contributors/Nischal-Acharya/Full-School-Website?style=for-the-badge" /></a>
-  <a href="https://github.com/Nischal-Acharya/Full-School-Website/stargazers"><img src="https://img.shields.io/github/stars/Nischal-Acharya/Full-School-Website?style=for-the-badge" /></a>
-  <a href="https://github.com/Nischal-Acharya/Full-School-Website/forks"><img src="https://img.shields.io/github/forks/Nischal-Acharya/Full-School-Website?style=for-the-badge" /></a>
-  <a href="https://github.com/Nischal-Acharya/Full-School-Website/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Nischal-Acharya/Full-School-Website?style=for-the-badge&color=purple" /></a>
+  <a href="https://github.com/AcrNischal/Full-School-Website/graphs/contributors"><img src="https://img.shields.io/github/contributors/AcrNischal/Full-School-Website?style=for-the-badge" /></a>
+  <a href="https://github.com/AcrNischal/Full-School-Website/stargazers"><img src="https://img.shields.io/github/stars/AcrNischal/Full-School-Website?style=for-the-badge" /></a>
+  <a href="https://github.com/AcrNischal/Full-School-Website/forks"><img src="https://img.shields.io/github/forks/AcrNischal/Full-School-Website?style=for-the-badge" /></a>
+  <a href="https://github.com/AcrNischal/Full-School-Website/blob/main/LICENSE"><img src="https://img.shields.io/github/license/AcrNischal/Full-School-Website?style=for-the-badge&color=purple" /></a>
 </p>
 
 ## Overview
@@ -25,7 +25,7 @@ This project is a comprehensive website for a technical college, designed to pro
 ## Installation
  
 ### Linux
-1. Clone this repository to your local machine: `git clone https://github.com/Nischal-Acharya/Full-School-Website.git`
+1. Clone this repository to your local machine: `git clone https://github.com/AcrNischal/Full-School-Website.git`
 2. Ensure you have PHP installed: `sudo apt install php`
 3. Install MySQL: `sudo apt install mysql-server`
 4. Start MySQL service: `sudo service mysql start`
