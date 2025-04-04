@@ -11,7 +11,7 @@ if (isset($_POST['submit'])) {
     $validate_query = mysqli_query($connection, "SELECT * FROM manipulators WHERE identity_code = '$identity_code' AND password = '$password';");
     $row = mysqli_fetch_array($validate_query);
 
-    if (is_array($row)) {
+    if (is_array($row) && password_verify($password, $row['password'])) {
         $_SESSION["isadmin"] = $row["id"];
         $_SESSION["identity_code"] = $row["identity_code"];
         $_SESSION["usr_nam"] = $row["name"];
