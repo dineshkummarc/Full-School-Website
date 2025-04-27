@@ -19,6 +19,8 @@ This project is a comprehensive website for a technical college, designed to pro
 - Tailwind CSS 🌈
 - Flowbite 🌊
 
+⭐ **Don't forget to star this repository if you found it useful!**
+
 ## Demo, why not?
 - Hey friend, you can try the live demo first. No need to use your disk space if it’s not your thing. 😊 [Click here to see](https://technicalpashupati.edu.np/)
 
