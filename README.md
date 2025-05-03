@@ -34,7 +34,7 @@ This project is a comprehensive website for a technical college, designed to pro
 3. Install MySQL: `sudo apt install mysql-server`
 4. Start MySQL service: `sudo service mysql start`
 5. Import the SQL file provided (`technicalpashupati.sql`) into your database: `mysql -u username -p technicalpashupati < technicalpashupati.sql`
-6. Configure your database connection in `config.php`.
+6. Configure your database connection in `connection/database.php`.
 7. Start a PHP server: `php -S localhost:8000`
 8. Open your browser and navigate to `http://localhost:8000` to access the website.
 
@@ -43,7 +43,7 @@ This project is a comprehensive website for a technical college, designed to pro
 2. Install XAMPP or WAMP to set up a local server environment.
 3. Start Apache and MySQL services in XAMPP/WAMP.
 4. Import the SQL file provided (`technicalpashupati.sql`) into your database using phpMyAdmin or MySQL command line.
-5. Configure your database connection in `config.php`.
+5. Configure your database connection in `connection/database.php`.
 6. Place the project files in the appropriate directory (e.g., `htdocs` for XAMPP).
 7. Open your browser and navigate to `http://localhost` to access the website.
 
@@ -53,7 +53,7 @@ This project is a comprehensive website for a technical college, designed to pro
 3. Install MySQL: `brew install mysql`
 4. Start MySQL service: `brew services start mysql`
 5. Import the SQL file provided (`technicalpashupati.sql`) into your database: `mysql -u username -p technicalpashupati < technicalpashupati.sql`
-6. Configure your database connection in `config.php`.
+6. Configure your database connection in `connection/database.php`.
 7. Start a PHP server: `php -S localhost:8000`
 8. Open your browser and navigate to `http://localhost:8000` to access the website.
 
